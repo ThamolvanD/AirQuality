@@ -43,3 +43,8 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+# lib: ไม่เอาไฟล์อื่น ๆ ยกเว้น main.dart และ air_quality_page.dart
+lib/*
+!lib/main.dart
+!lib/air_quality_page.dart
