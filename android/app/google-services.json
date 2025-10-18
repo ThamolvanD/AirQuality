@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "674153822919",
+    "project_id": "moblieapp-303e3",
+    "storage_bucket": "moblieapp-303e3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:674153822919:android:f6185416b6f6ac4b1f9ce2",
+        "android_client_info": {
+          "package_name": "com.example.moblie"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtLCewO-Sslez9bfK5_EldpytWdW40pfs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
